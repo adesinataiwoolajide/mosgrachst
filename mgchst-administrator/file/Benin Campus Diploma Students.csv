@@ -1,0 +1,107 @@
+passport,matricNumber,surname,other_names,date of birth,state of origin,phone number,student email,address,dept,prog,course,level,sex,marital_status,religion,nationality,name of next of kin,kin phone,kin address,school attended1,FROM DATE,TO DATE,DEGREE,SCHOOL ATTENDED2,FROM DATE,TO DATE,DEGREE2,SCHOOL ATTENDED3,FROM DATE,TO DATE,DEGREE,SCHOOL ATTENDED 4,FROM DATE,TO DATE,DEGREE,SCHOOL ATTENED5,FROM DATE,TO DATE,DEGREE,SUBJECT1 ,GRADE1,subject 2, grade 2,subject 3,grade3,subject 4,grade 4,subject 5,grade 5,subject 6, grade 6 ,subject 7,grade 7,subject 8,grade 8 ,subject 9 ,grade 9,other qualifications,academic session
+,,ADE,SINA,14-02-84,DELTA,7054477735,,"26,OSAROYI STREET",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,HELEN OMOTOWA,,"49,SERGENT QUARTER,UGHELLI,DELTA STATE",UGELLE PRIMARY SCHOOL,1991,1996,,OGHARA SECONDARY SCHOOL,1998,2003,,,,,,,,,,,,,,ENGLISH LANGUAGE,C4,BIOLOGY,C5,CHEMISTRY,C6,PHYSICS,C4,AGRICULTURAL SCIENCE,C7,MATHEMATICS,C3,,,,,,,,2016/2017
+,,IKHAYERE ,BLESSING OFFURE,23-06-94,EDO,8166403037,,"42,OMOGIATE STREET.",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,NIL,,NIL,DORCAS GROUP OF SCHOOLS,,2001-2006,,ADUWAWA SECONDARY SCHOOL,2006-2012,,,,,,,,,,,,,,,ENGLISH LANGUAGE,C5,BIOLOGY,C5,CHEMISTRY,B3,PHYSICS,A1,GEOGRAPHY,C4,MATHEMATICS,C6,ECONOMICS,C5,GEOGRAPHY,C6,AGRICULUTRAL SCIENCE ,C6,,2016/2017
+,,EROMONSELE,FAITH IZEHI,27-07-96,EDO,9059896749,,"1,CHIEF OGBOKUN STREET,UROMI",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,NIL,,NIL,PRAISE ACADEMY GROUP OF SCHOOL,2001,2005,,UNITY SECONDARY SCHOOL,2009,2015,,,,,,,,,,,,,,ENGLISH LANGUAGE,C4,BIOLOGY,C4,CHEMISTRY,B3,PHYSICS,B3,CIVIC EDUCATION,B3,MATHEMATICS,B2,GOVERNMENT,C6,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,,,2016/2017
+,,IGBERAESE,FAVOUR OBEHI,19-10-96,EDO,8148823489,,"BACK OF APOSTOLIC ROAD,EWOYI UROMI",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,NIL,,NIL,MONDAY FORM MEMORIA GROUP OF SCHOOL,2005,2009,,MONDAY FORM MEMORIA GROUP OF SCHOOL,2010,2016,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,BIOLOGY,B3,CHEMISTRY,C4,PHYSICS,B2,CIVIC EDUCATION,C4,MATHEMATICS,C4,ECONOMICS,C6,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,,,2016/2017
+,,EHIZOGIE,BLESSING ,30-11-82,EDO,8167534433,,"1,IZEKOR STREET,1ST UGBOR,BENIN CITY",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,NIL,,NIL,ST STEPHEN PRIMARY SCHOOL,1990,1995,,IMAGUERO SENIOR SECONDARY ,1995,2001,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,BIOLOGY,C6,CHEMISTRY,C6,PHYSICS,C6,CIVIC EDUCATION,C5,MATHEMATICS,C6,ECONOMICS,C6,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,,,2016/2017
+,,KETUMI,KADIRI,14-11-95,EDO,8165544942,,"1,MALLAM HAFEEZ QUARTER AVIELE",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,NIL,,NIL,ETSAKO PRIMARY SCHOOL AUCHI,1999,2005,,IYEKHEI GIRLS SECONDARY ,2005,2010,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,BIOLOGY,C6,CHEMISTRY,C6,PHYSICS,C6,CIVIC EDUCATION,F9,MATHEMATICS,C4,ECONOMICS,C5,GEOGRAPHY,C6,AGRICULUTRAL SCIENCE ,F9,,2018/2019
+,,EGUAOGIE ,KEN ENDURANCE,26-07-98,EDO,9072753239,,"23,MISSION ROAD,IKPEYEN,OKPUJE ",Community/Public Health Science,Diploma,1,100,MALE,SINGLE,CHRISTIAN,NIGERIAN,EGUAOJE CHRISTIAN,,,"ULEVBIOJE PRIMARY SCHOOL,IKPEYAN",2004,2010,,"OJE RELIANCE SECONDARY SCHOOL,UZEBBA",2010,2016,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,BIOLOGY,C6,CHEMISTRY,B3,PHYSICS,C5,CIVIC EDUCATION,C6,MATHEMATICS,A1,ECONOMICS,C5,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,,,2018/2019
+,,SHABA,BLESSING OFOME,03-10-01,EDO,9061133468,,"C/O,ROYAL FAMILY EGBIGERE IKPESHI",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,NIL,,NIL,"OFOMOMANI PRIMARY SCHOOL,EGBIGERE.",2006,2011,,PRESTIGE GROUP OF SCHOOL,2012,2017,,,,,,,,,,,,,,ENGLISH LANGUAGE,C5,BIOLOGY,B3,CHEMISTRY,B3,PHYSICS,B3,CIVIC EDUCATION,A1,MATHEMATICS,A1,ECONOMICS,C5,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,B3,,2018/2019
+,,ORUKPE,FESTUS,14-11-94,EDO,7054420022,orukeDavid222@gmail.com,"74,ORONMIYAN STREET,OGIDA QUARTERS",Community/Public Health Science,Diploma,1,100,MALE,SINGLE,CHRISTIAN,NIGERIAN,DAVID ORUKPE,,"74,ORONMIYAN STREET,OGIDA QUARTERS",UNISENT GROUP OF SCHOOL,1999,2005,,"OHEZE SECONDARY SCHOOL,OLETEN",2006,2012,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,BIOLOGY,C6,CHEMISTRY,C5,PHYSICS,C4,CIVIC EDUCATION,,MATHEMATICS,C6,ECONOMICS,C4,GEOGRAPHY,C6,AGRICULUTRAL SCIENCE ,,,2018/2019
+,,DIRISU,SHERIFAT,05-01-95,EDO,8153205120,,"52,BODE ROAD JATTU UZAIRUE",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,DIRISU LATIFAT,,"52,BODE ROAD JATTU UZAIRUE",ETHIOPE PRIMARY SCHOOL,2000,2005,,IZHARUDE -DEEN MUSLIM SECONDARY SCHOOL,2009,2012,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,BIOLOGY,C6,CHEMISTRY,C6,PHYSICS,C6,CIVIC EDUCATION,,MATHEMATICS,C5,ECONOMICS,E8,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,E8,,2018/2019
+,,OGIEVA,PRECIOUS,05-10-94,EDO,8053573038,,"57,EGUASCO STREET,OFF UPPER SAKPONBA,BENIN CITY",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,OTIPI PROMISE,,"57,EGUASCO STREET,OFF UPPER SAKPONBA,BENIN CITY",OLOTEN PRIMARY SCHOOL,2000,2005,,FIEMER GROUP OF SCHOOLS,2006,2012,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,BIOLOGY,C6,CHEMISTRY,C5,PHYSICS,C5,CIVIC EDUCATION,C4,MATHEMATICS,B3,ECONOMICS,C5,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,C5,,2018/2019
+,,AFEIKHOBE,FRANCIS BELLO,18-02-97,EDO,8085493911,afeikhobef@gmail .com,"12,IMASUEN STREET BEHIND MOUKA FORM,SAPELE ROAD,BENIN CITY",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,IZETA,,"12,IMASUEN STREET BEHIND MOUKA FORM,SAPELE ROAD,BENIN CITY",VICTORY INTERNATIONAL SCHOOL,2004,2009,,GREATER STAR SECONDARY SCHOOL,2010,2015,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,BIOLOGY,B3,CHEMISTRY,C4,PHYSICS,C6,CIVIC EDUCATION,C4,MATHEMATICS,B2,ECONOMICS,C4,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,,,2017/2018
+,,ITUA ,JOY ISOKEN,09-03-87,EDO,9055976975,,"13,IYOKHO STREET OFF NOMAYO UPPER SAKPONBA,BENIN CITY",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,ITUA EHIS OSAZEE,,"13,IYOKHO STREET OFF NOMAYO UPPER SAKPONBA,BENIN CITY",UWA PRIMARY SCHOOL ,1993,1999,,GREAT OXFORD INTERNATIONAL GROUP OF SCHOOL,2000,2006,,,,,,,,,,,,,,ENGLISH LANGUAGE,C5,BIOLOGY,C4,CHEMISTRY,B2,PHYSICS,B3,CIVIC EDUCATION,,MATHEMATICS,C4,ECONOMICS,B3,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,B3,,2017/2018
+,,OKOIHUE,BLESSING EBOSETALE,01-10-99,EDO,8119277433,blessingokoihue2017@yahoo.com,"11,AFUDA ROAD,UROMI",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,,,,IDUMMU ISABA PRIMARY SCHOOL,2004,2010,,OUR LADY OF LOUNDES SECONDARY SCHOOL,2010,2016,,,,,,,,,,,,,,ENGLISH LANGUAGE,C5,BIOLOGY,C4,CHEMISTRY,B3,PHYSICS,B3,CIVIC EDUCATION,C6,MATHEMATICS,C4,ECONOMICS,C4,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,B3,,2017/2018
+,,OHILEBO,OMOUIMEOBE BLESSING,06-03-95,EDO,8169793100,,"79,0BE STREET SABONGIDDA ORA",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,PRUDENT ADEDEJI,,"6,IMODU STRRET OKIE 0L0",EVBIAMEN PRIMARY SCHOOL,2004,2009,,EVBIAMEN GRAMMAR SCHOOL,2010,2016,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,C6,,CHEMISTRY,C6,PHYSICS,C6,CIVIC EDUCATION,C6,MATHEMATICS,B3,ECONOMICS,C6,GEOGRAPHY,C6,AGRICULUTRAL SCIENCE ,C6,,2017/2018
+,,IMOLORE,ELIZABETH,12-06-85,EDO,8076020264,,"MICHEAL IMOUDU COMPREHENSIVE HEALTH CENTER,SABONGIDDA",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,,,,EDIALE PRIMARY SCHOOL URHOUIGBE,2004,2009,,HEIN SECONDARY SCHOOL,2009,2016,,,,,,,,,,,,,,ENGLISH LANGUAGE,B3,BIOLOGY,C6,CHEMISTRY,C6,PHYSICS,C6,CIVIC EDUCATION,B3,MATHEMATICS,C5,ECONOMICS,C5,GEOGRAPHY,C4,AGRICULUTRAL SCIENCE ,C5,,2017/2018
+,,AKPATA ,PATRICIA EHIMONWEN,14-02-82,EDO,8162500085,,"48,IGBIDIN STREET,OZALLA",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,,,,OZALLA PRIMARY SCHOOL ,1986,1992,,OZALLA SECONDARY SCHOOL,1992,1998,,,,,,,,,,,,,,ENGLISH LANGUAGE,C5,BIOLOGY,C5,CHEMISTRY,C5,PHYSICS,C5,CIVIC EDUCATION,C4,MATHEMATICS,C5,ECONOMICS,C4,GEOGRAPHY,C6,AGRICULUTRAL SCIENCE ,C5,,2017/2018
+,,AWOMU,JOYCE,02-01-99,EDO,8131011574,joycelawson33@gmail.com,"10,ILEBE STREET SILUKO ROAD BENIN CITY",Community/Public Health Science,Diploma,1,100,FEMALE,SINGLE,CHRISTIAN,NIGERIAN,,,,GILGAL EDUCATION CENTER,2001,2007,,BLESSED SAINT PAUL MEMORIAL SCHOOL,2009,2015,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,BIOLOGY,C5,CHEMISTRY,C6,PHYSICS,C6,CIVIC EDUCATION,,MATHEMATICS,C5,ECONOMICS,BE8,GEOGRAPHY,D7,AGRICULUTRAL SCIENCE ,C6,,2017/2018
+,,OLAMIDE,BADOO BADOO,16-01-97,IMO,8159251480,,"7,JEMIDE OFF GIWA AMU",Community/Public Health Science,Diploma,1,100,MALE,SINGLE,CHRISTIAN,NIGERIAN,FAMOUS DAVID ARUNA,,,PROGRESSIVE GROUP OF SCHOOL,2002,2008,,DE HEART SCHOOL,2008,2014,,,,,,,,,,,,,,ENGLISH LANGUAGE,C6,BIOLOGY,C6,CHEMISTRY,C5,PHYSICS,B3,CIVIC EDUCATION,A1,MATHEMATICS,A1,ECONOMICS,B3,GEOGRAPHY,,AGRICULUTRAL SCIENCE ,B3,,2017/2018
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CHEMISTRY,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CHEMISTRY,,,,,,,,,,,,,,,
